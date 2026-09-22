@@ -1,9 +1,3 @@
----
-title: "College of the Culinary"
-source: "Vjalkraven 1.02"
-source_pages: "133-134"
-category: "Nature & World Rules"
----
 
 # College of the Culinary
 

@@ -1,9 +1,3 @@
----
-title: "Culture of Berreon"
-source: "Vjalkraven 1.02"
-source_pages: "21-22"
-category: "People & Society"
----
 # Culture of Berreon
 
 Its people are known for their love of art, music, and

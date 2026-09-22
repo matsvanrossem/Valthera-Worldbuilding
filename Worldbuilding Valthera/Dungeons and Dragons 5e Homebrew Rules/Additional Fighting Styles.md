@@ -1,19 +1,9 @@
----
-title: "Additional Fighting Styles"
-source: "Vjalkraven 1.02"
-source_pages: "139-140"
-category: "Nature & World Rules"
----
 
 # Additional Fighting Styles
 
-<!-- Source PDF page 139 -->
+## Marksman
 
-W
-T
-# Marksman
-
-hile all fighters learn to draw a bow and hurl
+while all fighters learn to draw a bow and hurl
 javelins, those who train as Marksmen
 dedicate themselves to are masters of ranged
 weapons of all types, and they are always

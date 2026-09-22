@@ -7,7 +7,7 @@ category: "History"
 
 # Chronicle of Past time
 
-<!-- Source PDF page 218 -->
+
 
 T
 # Appendix: A
