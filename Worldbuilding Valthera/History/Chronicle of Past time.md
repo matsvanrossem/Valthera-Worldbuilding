@@ -1,9 +1,3 @@
----
-title: "Chronicle of Past time"
-source: "Vjalkraven 1.02"
-source_pages: "218-220"
-category: "History"
----
 
 # Chronicle of Past time
 
