@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "d13844871d04fb36",
+    "type": "split",
+    "children": [
+      {
+        "id": "a835dee2e98ede8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a4bfaee75f0f777",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Maps/Worldmap.webp"
+              },
+              "icon": "lucide-image",
+              "title": "Worldmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a5c079c0581a803",
+    "type": "split",
+    "children": [
+      {
+        "id": "53b5712402a22b45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ccca2944cda37a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6d9a3d84e5b58283",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ccde98e977b62602",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 416.8999938964844
+  },
+  "right": {
+    "id": "1fc61ec7bfb4a646",
+    "type": "split",
+    "children": [
+      {
+        "id": "97e391d74897a772",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab90bfb499b38d5b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dungeons and Dragons.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f75038da3fa21177",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          },
+          {
+            "id": "0d3e08a3fe24d89b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dungeons and Dragons.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "144de1f761ed4ac1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "90c05efdef07e383",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e25491495ef427b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dungeons and Dragons.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "29f0fd52fbf10308",
+            "type": "leaf",
+            "state": {
+              "type": "brewvault-preview",
+              "state": {},
+              "icon": "scroll",
+              "title": "Brew: Dungeons and Dragons"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 526.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
+      "brewvault:Open preview": false
+    }
+  },
+  "active": "2ccca2944cda37a7",
+  "lastOpenFiles": [
+    "Worldbuilding Valthera/Places & Nations/Geographical Features/Yuki Yama.md",
+    "Worldbuilding Valthera/Places & Nations/Geographical Features/Westfalls.md",
+    "Worldbuilding Valthera/Places & Nations/Geographical Features/We.md",
+    "Worldbuilding Valthera/Places & Nations/Geographical Features/Wardens Passage.md",
+    "Worldbuilding Valthera/Places & Nations/Geographical Features/Valley of The Gods.md",
+    "Worldbuilding Valthera/Places & Nations/Geographical Features/Ulde.md",
+    "Worldbuilding Valthera/Places & Nations/Geographical Features/Tumar.md",
+    "Worldbuilding Valthera/Places & Nations/Geographical Features/Tror.md",
+    "Worldbuilding Valthera/Places & Nations/Geographical Features/Tretegor.md",
+    "Worldbuilding Valthera/Places & Nations/Geographical Features/The Sky thrones.md",
+    "Worldbuilding Valthera/Places & Nations/Geographical Features/The Shar.md",
+    "Worldbuilding Valthera/Places & Nations/Geographical Features/The Selune.md",
+    "Worldbuilding Valthera/Places & Nations/Geographical Features/The Ironash Peaks.md",
+    "Worldbuilding Valthera/Places & Nations/Geographical Features/The Forests of Ermongal.md",
+    "Worldbuilding Valthera/Places & Nations/Geographical Features/The Amon Desert.md",
+    "Worldbuilding Valthera/Places & Nations/Geographical Features/Terros.md",
+    "Worldbuilding Valthera/Places & Nations/Geographical Features/Terracotta Sea.md",
+    "Worldbuilding Valthera/Places & Nations/Geographical Features/Tern.md",
+    "Worldbuilding Valthera/Places & Nations/Geographical Features/Termian Riverlands.md",
+    "Worldbuilding Valthera/Places & Nations/Geographical Features/Teculan Mangrove.md",
+    "Worldbuilding Valthera/Places & Nations/Geographical Features/Stormwater.md",
+    "Worldbuilding Valthera/Places & Nations/Geographical Features/Silt Flats.md",
+    "Worldbuilding Valthera/Places & Nations/Geographical Features/shiverpeak.md",
+    "Worldbuilding Valthera/Places & Nations/Geographical Features/Shimmersalt Lake.md",
+    "Worldbuilding Valthera/Places & Nations/Geographical Features/Sea of the Golden Dragon.md",
+    "Worldbuilding Valthera/Places & Nations/Geographical Features/Sal-We.md",
+    "Maps/Worldmap.webp",
+    "Maps",
+    "Worldbuilding Valthera/Places & Nations/Geographical Features",
+    "Worldbuilding Valthera/Places & Nations/States and Civilisations",
+    "Worldbuilding Valthera/Places & Nations/Cities and Towns",
+    "Worldbuilding Valthera/Stories, Lore & Campaigns/The Hearth of Elandor",
+    "Worldbuilding Valthera/Stories, Lore & Campaigns/Legends and Folktales",
+    "Worldbuilding Valthera/Religion, Myth & Magic",
+    "Worldbuilding Valthera/People & Society",
+    "Worldbuilding Valthera/Nature & World Rules",
+    "Worldbuilding Valthera/Places & Nations"
+  ]
+}

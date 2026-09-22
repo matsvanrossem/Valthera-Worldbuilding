@@ -1,0 +1,18 @@
+
+For some humanity is a luxury, lost and wandering devoid of his former self, woe to anyone who might find himself eye-to-eye with him. But this is no mere ghost tale, the blue of his skin is a few shades lighter than that underneath his fingernails, long and sharp. The silvery moonlight reflects on the metal hooks that protrude his putrid flesh, cold and wet to the touch. The mirror you had just looked into, revealed horrors recently unknown to you. Dark corruption has spread through the right corner of your room. As this glittering appearance walks soundlessly towards you, leaving a trail of wretched wetness, he looks up at you from behind the long dark hairs that droop from his scalp. His eyes, blood-red as if possessed by some devil, express pain, loss, and agony. Someday in the past, he might’ve looked more warm and compassionate, but the creature’s humanity seems to be wearing a bit thin these days. His face is covered in marks and scars that tell stories of some battles past, some people killed. The fishing hooks in his skin sway as dark mist damps off the blueish surface, dissolving in a most unnatural way. As the thin man comes closer, you can smell the sea as well as rotten fish. When the moon’s face hides behind the dark clouds, the man’s body seems to become translucent. He smiles at you, revealing the long, sharp teeth which you thought only belonged to sharks. Ink drips from the corners of his mouth, as well as from the tentacles growing in his neck. His deep and sunken eyes betray his desires, however unknown to man. This man should not be alive. Overcoming fear, you reach for your saber, only to find the nightmarish figure has disappeared, leaving the room a dark and empty husk. The moonlight slipping through the window casts its light on the dark smoke in front of you. The smell of salt enters your nostrils, followed by the smell of fresh blood. Looking down, you notice the supernaturally sharp harpoon-end, sticking from your chest. The simultaneous dripping of both muck and blood enforce upon the night’s silence a morbid symphony of death. You feel it running through your veins before leaving through the gap in your chest, terror. The floor beneath you seems to give way for your body as you feel yourself collapsing to the floor. Rather than meeting with the concrete of your room, you find yourself outside. Feeling neither wind nor the breath of the slim figure clasping your powerless body, the last thing you realize is something is horribly wrong. You have left your room and now your soul has left your body.
+
+### Summary
+
+A lost soul who drowned a century ago in search of his former self haunts the coastal regions. A tale to scare children and keeps adults awake at night, for no one knows if it exists, and those who know have been consumed.
+
+### Historical Basis
+
+The legend is based on sightings of a creature so horrid and vile that most people would faint when seeing it. It is said it was a fisherman in search of his long-dead lover. Consumed by grief and hate he turned to the sea to give him back which he had lost so many years ago, but a demon of the deep deceived him and took his humanity and soul and left him to wander an eternity. now wholly consumed by his hatred nothing human is left and a terrifying creature remains.
+
+### Cultural Reception
+
+This story is used in many coastal cultures north of the equator to teach children the dangers of the sea. It is a story loved by sailors to scare city folk and people who try to exploit small fishing villages.
+
+### In Literature
+
+It has been written down in some books and records of a druidic woman near Blackbough. These records can be found in the Blackbough keep.

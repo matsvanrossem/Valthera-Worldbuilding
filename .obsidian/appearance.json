@@ -1,0 +1,12 @@
+{
+  "cssTheme": "ITS Theme",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "S - Encoded Fonts"
+  ],
+  "textFontFamily": "Bookinsanity Remake",
+  "interfaceFontFamily": "Bookinsanity Remake",
+  "monospaceFontFamily": "Bookinsanity Remake",
+  "baseFontSizeAction": true,
+  "baseFontSize": 10
+}
