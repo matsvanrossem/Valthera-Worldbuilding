@@ -1,0 +1,29 @@
+---
+title: "Jumping Jolt"
+source: "Vjalkraven 1.02"
+source_pages: "145-163"
+category: "Religion, Myth & Magic"
+---
+# Jumping Jolt
+
+4th-level evocation
+Classes: Sorcerer, Wizard
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous.
+You release an arc of lighting at a creature within range.
+Make a ranged spell attack roll against the target. On hit, the
+target takes 4d12 lightning damage, and you can cause the
+spell to jump to another target within 20 feet of the first
+target making a new attack roll for each target. The spell
+cannot hit the same target twice, or jump to a target out of
+the spells range. The spell can jump a maximum of five times.
+On a miss, the target takes half as much damage and the
+spell does not jump to a new target.
+At Higher Levels: When you cast this spell using a spell
+slot of 5th level or higher, the starting damage increases by
+1d12 for each slot level above 4th.
+
+
+<!-- Source PDF page 161 -->

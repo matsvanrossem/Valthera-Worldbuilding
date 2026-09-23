@@ -1,0 +1,11 @@
+{
+  "ITS@@select": "wotc-beyond",
+  "ITS@@paper": true,
+  "ITS@@writing-document": true,
+  "ITS@@writing": false,
+  "ITS@@disable-source-styling": false,
+  "ITS@@default-font": "'Bookinsanity Remake'",
+  "ITS@@font-monospace": "'Bookinsanity Remake'",
+  "ITS@@comment-font": "'Bookinsanity Remake'",
+  "ITS@@font": "'Bookinsanity Remake'"
+}

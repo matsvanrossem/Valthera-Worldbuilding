@@ -1,0 +1,1 @@
+![[Worldmap.webp|680]]
