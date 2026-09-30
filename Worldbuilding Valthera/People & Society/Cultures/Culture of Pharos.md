@@ -1,9 +1,3 @@
----
-title: "Culture of Pharos"
-source: "Vjalkraven 1.02"
-source_pages: "63-67"
-category: "People & Society"
----
 # Culture of Pharos
 
 #### Music

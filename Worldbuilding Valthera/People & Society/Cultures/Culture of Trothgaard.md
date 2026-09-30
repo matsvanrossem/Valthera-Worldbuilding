@@ -1,9 +1,3 @@
----
-title: "Culture of Trothgaard"
-source: "Vjalkraven 1.02"
-source_pages: "41-44"
-category: "People & Society"
----
 # Culture of Trothgaard
 
 Trothgaard culture is deeply rooted in tradition and hierarchy,

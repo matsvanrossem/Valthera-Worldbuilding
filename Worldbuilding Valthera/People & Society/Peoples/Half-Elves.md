@@ -1,9 +1,3 @@
----
-title: "Half-Elves"
-source: "Vjalkraven 1.02"
-source_pages: "109-114"
-category: "People & Society"
----
 # Half-Elves
 
 Half-elves are a mixed-race people, born from the union of a

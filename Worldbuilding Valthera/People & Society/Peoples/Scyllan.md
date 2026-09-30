@@ -1,9 +1,3 @@
----
-title: "Scyllan"
-source: "Vjalkraven 1.02"
-source_pages: "109-114"
-category: "People & Society"
----
 # Scyllan
 
 In the world of Vjalkraven, the Scyllan are a race of small,

@@ -1,9 +1,3 @@
----
-title: "Culture of Glammen"
-source: "Vjalkraven 1.02"
-source_pages: "83-87"
-category: "People & Society"
----
 # Culture of Glammen
 
 Glammen is a diverse and multicultural land with a rich

@@ -1,9 +1,3 @@
----
-title: "People of Berudian"
-source: "Vjalkraven 1.02"
-source_pages: "23-28"
-category: "People & Society"
----
 # People of Berudian
 
 The people of Berudian are diverse and come from various

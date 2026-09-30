@@ -1,9 +1,3 @@
----
-title: "Culture of Wennenthal"
-source: "Vjalkraven 1.02"
-source_pages: "34-36"
-category: "People & Society"
----
 # Culture of Wennenthal
 
 The culture of Wennenthal is heavily influenced by magic and

@@ -1,9 +1,3 @@
----
-title: "Genasi"
-source: "Vjalkraven 1.02"
-source_pages: "109-114"
-category: "People & Society"
----
 # Genasi
 
 In the world of Vjalkraven, Genasi are a race of humanoids

@@ -1,9 +1,3 @@
----
-title: "Culture of The Ringed Empire"
-source: "Vjalkraven 1.02"
-source_pages: "68-73"
-category: "People & Society"
----
 # Culture of The Ringed Empire
 
 The Ringed Empire culture is diverse and varied, with each

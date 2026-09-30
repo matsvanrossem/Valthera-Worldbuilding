@@ -1,9 +1,3 @@
----
-title: "The Omen Covenant"
-source: "Vjalkraven 1.02"
-source_pages: "91-93"
-category: "People & Society"
----
 # The Omen Covenant
 
 Omen Covenant is a council of most magic guilds in
@@ -36,4 +30,4 @@ adventurers to get rid of certain pest that disturb
 the roads.
 
 
-<!-- Source PDF page 92 -->
+

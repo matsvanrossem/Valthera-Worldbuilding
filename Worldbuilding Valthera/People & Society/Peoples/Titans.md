@@ -1,9 +1,3 @@
----
-title: "Titans"
-source: "Vjalkraven 1.02"
-source_pages: "115-121"
-category: "People & Society"
----
 # Titans
 
 Titans are ancient beings in the world of Vjalkraven that are

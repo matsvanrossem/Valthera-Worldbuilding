@@ -1,9 +1,3 @@
----
-title: "People of Glammen"
-source: "Vjalkraven 1.02"
-source_pages: "83-87"
-category: "People & Society"
----
 # People of Glammen
 
 The people of Glammen are a diverse mix of races, with

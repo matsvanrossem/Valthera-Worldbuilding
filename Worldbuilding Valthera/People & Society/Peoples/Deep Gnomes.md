@@ -1,9 +1,3 @@
----
-title: "Deep Gnomes"
-source: "Vjalkraven 1.02"
-source_pages: "109-114"
-category: "People & Society"
----
 # Deep Gnomes
 
 Deep Gnomes, also known as Svirfneblin, are a reclusive

@@ -1,9 +1,3 @@
----
-title: "Culture of Uvath'gahn"
-source: "Vjalkraven 1.02"
-source_pages: "37-40"
-category: "People & Society"
----
 # Culture of Uvath'gahn
 
 The culture of Uvath Gahn is deeply rooted in the connection

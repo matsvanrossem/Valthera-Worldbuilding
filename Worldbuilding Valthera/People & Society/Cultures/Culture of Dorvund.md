@@ -1,9 +1,3 @@
----
-title: "Culture of Dorvund"
-source: "Vjalkraven 1.02"
-source_pages: "49-53"
-category: "People & Society"
----
 # Culture of Dorvund
 
 Dorvund culture is deeply rooted in the belief of the Tryth

@@ -1,9 +1,3 @@
----
-title: "People of Evander"
-source: "Vjalkraven 1.02"
-source_pages: "16-18"
-category: "People & Society"
----
 # People of Evander
 
 ### Evandese

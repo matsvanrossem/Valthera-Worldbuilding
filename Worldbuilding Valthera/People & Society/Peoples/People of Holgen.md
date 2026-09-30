@@ -1,9 +1,3 @@
----
-title: "People of Holgen"
-source: "Vjalkraven 1.02"
-source_pages: "74-77"
-category: "People & Society"
----
 # People of Holgen
 
 ### Scyllan

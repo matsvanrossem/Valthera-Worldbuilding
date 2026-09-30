@@ -1,9 +1,3 @@
----
-title: "People of Uvath'gahn"
-source: "Vjalkraven 1.02"
-source_pages: "37-40"
-category: "People & Society"
----
 # People of Uvath'gahn
 
 ### Iverken Workers

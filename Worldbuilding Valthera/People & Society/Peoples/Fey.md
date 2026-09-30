@@ -1,9 +1,3 @@
----
-title: "Fey"
-source: "Vjalkraven 1.02"
-source_pages: "115-121"
-category: "People & Society"
----
 # Fey
 
 In the world of Vjalkraven, the Fey are a rare occurrence,

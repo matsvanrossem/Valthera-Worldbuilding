@@ -1,9 +1,3 @@
----
-title: "People of The Outerlands"
-source: "Vjalkraven 1.02"
-source_pages: "88-90"
-category: "People & Society"
----
 # People of The Outerlands
 
 As nomads, the people of the Outer Lands are defined by

@@ -1,9 +1,3 @@
----
-title: "People of Grevice"
-source: "Vjalkraven 1.02"
-source_pages: "54-57"
-category: "People & Society"
----
 # People of Grevice
 
 The people of Grevice are a diverse group, made up of

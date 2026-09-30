@@ -1,9 +1,3 @@
----
-title: "People of Pharos"
-source: "Vjalkraven 1.02"
-source_pages: "63-67"
-category: "People & Society"
----
 # People of Pharos
 
 ### Fir

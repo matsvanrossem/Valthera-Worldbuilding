@@ -1,9 +1,3 @@
----
-title: "Fir"
-source: "Vjalkraven 1.02"
-source_pages: "109-114"
-category: "People & Society"
----
 # Fir
 
 The Fir are a prominent humanoid race in the world of

@@ -1,9 +1,3 @@
----
-title: "People of Osteria"
-source: "Vjalkraven 1.02"
-source_pages: "29-33"
-category: "People & Society"
----
 # People of Osteria
 
 ### Osterians

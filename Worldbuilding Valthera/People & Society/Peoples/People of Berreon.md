@@ -1,9 +1,3 @@
----
-title: "People of Berreon"
-source: "Vjalkraven 1.02"
-source_pages: "21-22"
-category: "People & Society"
----
 # People of Berreon
 
 ### Berreon Tryth

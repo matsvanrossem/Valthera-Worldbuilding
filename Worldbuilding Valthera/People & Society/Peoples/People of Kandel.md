@@ -1,9 +1,3 @@
----
-title: "People of Kandel"
-source: "Vjalkraven 1.02"
-source_pages: "58-62"
-category: "People & Society"
----
 # People of Kandel
 
 The people of Kandel are a diverse group, with a mix of

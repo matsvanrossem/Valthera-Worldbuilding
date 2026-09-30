@@ -1,9 +1,3 @@
----
-title: "Dragonborn"
-source: "Vjalkraven 1.02"
-source_pages: "109-114"
-category: "People & Society"
----
 # Dragonborn
 
 The Dragonborn of Vjalkraven are a race of humanoid

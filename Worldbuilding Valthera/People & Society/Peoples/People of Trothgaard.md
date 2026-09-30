@@ -1,9 +1,3 @@
----
-title: "People of Trothgaard"
-source: "Vjalkraven 1.02"
-source_pages: "41-44"
-category: "People & Society"
----
 # People of Trothgaard
 
 ### Trothgaard Dwarves

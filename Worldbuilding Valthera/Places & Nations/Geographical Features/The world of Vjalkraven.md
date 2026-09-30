@@ -1,16 +1,7 @@
----
-title: "The world of Vjalkraven"
-source: "Vjalkraven 1.02"
-source_pages: "11-12"
-category: "Geography"
----
 
-# The world of Vjalkraven
+# The world of Valthera
 
-<!-- Source PDF page 11 -->
-
-T
-he world of Vjalkraven is primarily settled on
+The world of Vjalkraven is primarily settled on
 the 5th floor of Kor, also known as the material
 plane, which is a varied and plentiful land that
 encompasses a diverse range of environments.
@@ -46,8 +37,6 @@ mountains of Izerath are characterized by steep slopes, deep
 valleys, and rocky outcroppings, and are home to a variety of
 alpine plants and animals.
 
-
-<!-- Source PDF page 12 -->
 
 In the south of Izerath, the climate is more moderate, with a
 Mediterranean climate that is characterized by mild, wet

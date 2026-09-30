@@ -1,9 +1,3 @@
----
-title: "People of Olsten"
-source: "Vjalkraven 1.02"
-source_pages: "19-20"
-category: "People & Society"
----
 # People of Olsten
 
 ### The Unwanted

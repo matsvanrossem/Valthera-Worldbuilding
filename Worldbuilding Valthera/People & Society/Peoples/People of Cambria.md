@@ -1,9 +1,3 @@
----
-title: "People of Cambria"
-source: "Vjalkraven 1.02"
-source_pages: "45-48"
-category: "People & Society"
----
 # People of Cambria
 
 ### Cambrian Fir

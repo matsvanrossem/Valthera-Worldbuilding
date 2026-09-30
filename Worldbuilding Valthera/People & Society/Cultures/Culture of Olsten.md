@@ -1,9 +1,3 @@
----
-title: "Culture of Olsten"
-source: "Vjalkraven 1.02"
-source_pages: "19-20"
-category: "People & Society"
----
 # Culture of Olsten
 
 #### Music

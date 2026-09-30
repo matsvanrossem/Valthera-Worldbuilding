@@ -1,9 +1,3 @@
----
-title: "Culture of Kandel"
-source: "Vjalkraven 1.02"
-source_pages: "58-62"
-category: "People & Society"
----
 # Culture of Kandel
 
 Kandel culture is rich and diverse, reflecting the history and

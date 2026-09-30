@@ -1,9 +1,3 @@
----
-title: "Cambrian Fir"
-source: "Vjalkraven 1.02"
-source_pages: "109-114"
-category: "People & Society"
----
 # Cambrian Fir
 
 The Cambrian Fir, a subgroup of the Fir, have a distinct

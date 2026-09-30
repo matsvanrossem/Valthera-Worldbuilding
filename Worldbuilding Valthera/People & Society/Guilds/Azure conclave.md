@@ -1,9 +1,3 @@
----
-title: "Azure conclave"
-source: "Vjalkraven 1.02"
-source_pages: "91-93"
-category: "People & Society"
----
 # Azure conclave
 
 TheAzure Conclave is a small but dedicated group of

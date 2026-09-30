@@ -1,9 +1,3 @@
----
-title: "Half-Orcs"
-source: "Vjalkraven 1.02"
-source_pages: "109-114"
-category: "People & Society"
----
 # Half-Orcs
 
 In the world of Vjalkraven, half orcs are seen by their orcish

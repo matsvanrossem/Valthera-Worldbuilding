@@ -1,9 +1,3 @@
----
-title: "Tabaxi"
-source: "Vjalkraven 1.02"
-source_pages: "109-114"
-category: "People & Society"
----
 # Tabaxi
 
 The Tabaxi are a feline race known for their grace, agility, and

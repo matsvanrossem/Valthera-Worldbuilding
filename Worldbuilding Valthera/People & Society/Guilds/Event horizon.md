@@ -1,9 +1,3 @@
----
-title: "Event horizon"
-source: "Vjalkraven 1.02"
-source_pages: "91-93"
-category: "People & Society"
----
 # Event horizon
 
 Event Horizon is a highly secretive and ambitious guild

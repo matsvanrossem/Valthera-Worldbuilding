@@ -1,9 +1,3 @@
----
-title: "Humans"
-source: "Vjalkraven 1.02"
-source_pages: "109-114"
-category: "People & Society"
----
 # Humans
 
 In the world of Vjalkraven, humans are a diverse group of

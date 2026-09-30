@@ -1,9 +1,3 @@
----
-title: "Dwarves"
-source: "Vjalkraven 1.02"
-source_pages: "109-114"
-category: "People & Society"
----
 # Dwarves
 
 The dwarven race in the world of Vjalkraven and the

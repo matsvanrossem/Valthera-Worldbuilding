@@ -1,9 +1,3 @@
----
-title: "Goblinkin"
-source: "Vjalkraven 1.02"
-source_pages: "115-121"
-category: "People & Society"
----
 # Goblinkin
 
 In the world of Vjalkraven, the goblinkin are a diverse group

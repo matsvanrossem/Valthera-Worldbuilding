@@ -1,9 +1,3 @@
----
-title: "People of Nasgalrion"
-source: "Vjalkraven 1.02"
-source_pages: "78-82"
-category: "People & Society"
----
 # People of Nasgalrion
 
 ### Female Drow

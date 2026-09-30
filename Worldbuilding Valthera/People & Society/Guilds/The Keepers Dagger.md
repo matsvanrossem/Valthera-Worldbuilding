@@ -1,9 +1,3 @@
----
-title: "The Keepers Dagger"
-source: "Vjalkraven 1.02"
-source_pages: "91-93"
-category: "People & Society"
----
 # The Keepers Dagger
 
 The Innkeepers Dagger is a highly secretive thieves guild
@@ -16,8 +10,6 @@ as a reference to their organization. Their members and
 informants are spread across the Ringed Empire, making
 them a widespread and influential criminal organization.
 
-
-<!-- Source PDF page 93 -->
 
 As an innkeeper's establishment, the Innkeepers Dagger is
 likely to have many rooms and facilities for guests, which

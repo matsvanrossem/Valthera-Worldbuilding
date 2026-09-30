@@ -1,9 +1,3 @@
----
-title: "Verdan"
-source: "Vjalkraven 1.02"
-source_pages: "109-114"
-category: "People & Society"
----
 # Verdan
 
 The Verdan are a small, goblinoid race that are known for

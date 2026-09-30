@@ -1,9 +1,3 @@
----
-title: "People of Dorvund"
-source: "Vjalkraven 1.02"
-source_pages: "49-53"
-category: "People & Society"
----
 # People of Dorvund
 
 ### Pure Tryth

@@ -1,9 +1,3 @@
----
-title: "The Giants"
-source: "Vjalkraven 1.02"
-source_pages: "115-121"
-category: "People & Society"
----
 # The Giants
 
 In the world of Vjalkraven, the giantkin are a diverse group of

@@ -1,9 +1,3 @@
----
-title: "The Tryth Banking Clan"
-source: "Vjalkraven 1.02"
-source_pages: "91-93"
-category: "People & Society"
----
 # The Tryth Banking Clan
 
 The Tryth Banking Clan is a powerful and wealthy

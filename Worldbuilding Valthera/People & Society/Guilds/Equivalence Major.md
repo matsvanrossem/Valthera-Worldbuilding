@@ -1,9 +1,3 @@
----
-title: "Equivalence Major"
-source: "Vjalkraven 1.02"
-source_pages: "91-93"
-category: "People & Society"
----
 # Equivalence Major
 
 Equivalence Major is a highly influential guild within the city

@@ -1,9 +1,3 @@
----
-title: "Culture of Berudian"
-source: "Vjalkraven 1.02"
-source_pages: "23-28"
-category: "People & Society"
----
 # Culture of Berudian
 
 Berudian culture is diverse and influenced by various factors,

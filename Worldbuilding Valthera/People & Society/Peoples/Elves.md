@@ -1,9 +1,3 @@
----
-title: "Elves"
-source: "Vjalkraven 1.02"
-source_pages: "109-114"
-category: "People & Society"
----
 # Elves
 
 the Elves of Vjalkraven are a proud and noble race, with a

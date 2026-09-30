@@ -1,9 +1,3 @@
----
-title: "Culture of Grevice"
-source: "Vjalkraven 1.02"
-source_pages: "54-57"
-category: "People & Society"
----
 # Culture of Grevice
 
 Grevice culture is heavily influenced by the absolute power of

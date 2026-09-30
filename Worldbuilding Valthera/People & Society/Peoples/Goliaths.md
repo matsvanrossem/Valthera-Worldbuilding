@@ -1,9 +1,3 @@
----
-title: "Goliaths"
-source: "Vjalkraven 1.02"
-source_pages: "109-114"
-category: "People & Society"
----
 # Goliaths
 
 The Goliaths are a hardy and proud race of giants who value

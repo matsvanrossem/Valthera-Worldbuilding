@@ -1,9 +1,3 @@
----
-title: "Ulden swan"
-source: "Vjalkraven 1.02"
-source_pages: "91-93"
-category: "People & Society"
----
 # Ulden swan
 
 Ulden Swan is a unique guild of artists in the Vjalkraven

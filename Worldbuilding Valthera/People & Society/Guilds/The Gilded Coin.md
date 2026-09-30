@@ -1,9 +1,3 @@
----
-title: "The Gilded Coin"
-source: "Vjalkraven 1.02"
-source_pages: "91-93"
-category: "People & Society"
----
 # The Gilded Coin
 
 The Gilded Coin is a powerful trade guild that operates in

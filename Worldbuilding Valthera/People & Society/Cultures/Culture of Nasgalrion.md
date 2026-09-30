@@ -1,9 +1,3 @@
----
-title: "Culture of Nasgalrion"
-source: "Vjalkraven 1.02"
-source_pages: "78-82"
-category: "People & Society"
----
 # Culture of Nasgalrion
 
 Despite their reputation as a ruthless and cruel race, the

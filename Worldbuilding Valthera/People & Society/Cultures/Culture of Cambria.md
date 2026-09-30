@@ -1,9 +1,3 @@
----
-title: "Culture of Cambria"
-source: "Vjalkraven 1.02"
-source_pages: "45-48"
-category: "People & Society"
----
 # Culture of Cambria
 
 Cambrian culture is a unique blend of militarism, art, and

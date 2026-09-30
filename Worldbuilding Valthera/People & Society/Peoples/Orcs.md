@@ -1,9 +1,3 @@
----
-title: "Orcs"
-source: "Vjalkraven 1.02"
-source_pages: "115-121"
-category: "People & Society"
----
 # Orcs
 
 In the world of Vjalkraven, Orcs are a race of humanoids

@@ -1,16 +1,7 @@
----
-title: "Guilds and Organizations"
-source: "Vjalkraven 1.02"
-source_pages: "91-93"
-category: "People & Society"
----
 
 # Guilds and Organizations
 
-<!-- Source PDF page 91 -->
-
-T
-he lands of Vjalkraven are home to a diverse
+The lands of Vjalkraven are home to a diverse
 array of factions and guilds, each with their
 own unique characteristics and agendas.
 Some of these organizations are aligned with

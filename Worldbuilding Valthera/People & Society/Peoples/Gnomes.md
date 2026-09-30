@@ -1,9 +1,3 @@
----
-title: "Gnomes"
-source: "Vjalkraven 1.02"
-source_pages: "109-114"
-category: "People & Society"
----
 # Gnomes
 
 Gnomes in the world of Vjalkraven are a small and

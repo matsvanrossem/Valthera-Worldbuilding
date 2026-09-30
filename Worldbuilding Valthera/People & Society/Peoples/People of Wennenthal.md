@@ -1,9 +1,3 @@
----
-title: "People of Wennenthal"
-source: "Vjalkraven 1.02"
-source_pages: "34-36"
-category: "People & Society"
----
 # People of Wennenthal
 
 ### Mages
