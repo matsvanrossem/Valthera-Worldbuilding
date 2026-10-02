@@ -11,12 +11,14 @@
             "id": "5c55555246facd3f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Maps/Worldmap.webp"
+                "file": "Worldbuilding Valthera/Religion, Myth & Magic/Magic/Spells/Blessing of the Harvest Goddess.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Worldmap"
+              "icon": "lucide-file",
+              "title": "Blessing of the Harvest Goddess"
             }
           }
         ]
@@ -177,6 +179,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
+      "brewvault:Open preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -189,6 +196,15 @@
   },
   "active": "5c55555246facd3f",
   "lastOpenFiles": [
+    "Worldbuilding Valthera/Religion, Myth & Magic/Magic/Spells/Arcane Weapon.md",
+    "Worldbuilding Valthera/Religion, Myth & Magic/Magic/Spells/Allterra.md",
+    "Worldbuilding Valthera/Religion, Myth & Magic/Magic/Spells/Aether Lance.md",
+    "Worldbuilding Valthera/Religion, Myth & Magic/Magic/Spells/Acid Rain.md",
+    "Worldbuilding Valthera/History/The Natural History of Valthera.md",
+    "Worldbuilding Valthera/History/Chronicle of Past time.md",
+    "Worldbuilding Valthera/Places & Nations/States and Civilisations/Ansellan.md",
+    "Worldbuilding Valthera/Places & Nations/States and Civilisations/Archaeus.md",
+    "Maps/Worldmap.webp",
     "Welcome.md",
     "Worldbuilding Valthera/Stories, Lore & Campaigns/The Hearth of Elandor/The Hearth of Elandor; Logbook.md",
     "Worldbuilding Valthera/Stories, Lore & Campaigns/Legends and Folktales/The maiden black.md",
@@ -197,8 +213,6 @@
     "Worldbuilding Valthera/Stories, Lore & Campaigns/Legends and Folktales",
     "Worldbuilding Valthera/Stories, Lore & Campaigns/The Hearth of Elandor",
     "Worldbuilding Valthera/Stories, Lore & Campaigns",
-    "Worldbuilding Valthera/History/Chronicle of Past time.md",
-    "Worldbuilding Valthera/History/The Natural History of Valthera.md",
     "Worldbuilding Valthera/History",
     "Worldbuilding Valthera/Technology & Objects/Objects/Vildamir Royal Guard Armor.md",
     "Worldbuilding Valthera/Technology & Objects/Objects/Trade Goods.md",
@@ -213,18 +227,11 @@
     "Worldbuilding Valthera/Technology & Objects/Objects/Soulless Blade.md",
     "Worldbuilding Valthera/Technology & Objects/Objects/Soulcatcher's Pendant.md",
     "Worldbuilding Valthera/Technology & Objects/Objects/Sigil of the Wind.md",
-    "Worldbuilding Valthera/Technology & Objects/Objects/Shadowstep Boots.md",
-    "Worldbuilding Valthera/Technology & Objects/Objects/Seed of the Undergarden.md",
-    "Worldbuilding Valthera/Technology & Objects/Objects/Ruin Medallion.md",
-    "Worldbuilding Valthera/Technology & Objects/Objects/Rod of Lordly Might.md",
-    "Worldbuilding Valthera/Technology & Objects/Objects/Reaper Tooth Necklace.md",
-    "Worldbuilding Valthera/Technology & Objects/Objects/Reality Shard.md",
     "Worldbuilding Valthera/Technology & Objects/Objects",
     "Worldbuilding Valthera/Technology & Objects",
     "Worldbuilding Valthera/Religion, Myth & Magic/Magic/Spells",
     "Worldbuilding Valthera/Religion, Myth & Magic/Magic",
     "Worldbuilding Valthera/Religion, Myth & Magic",
-    "Worldbuilding Valthera/Places & Nations/States and Civilisations",
-    "Maps/Worldmap.webp"
+    "Worldbuilding Valthera/Places & Nations/States and Civilisations"
   ]
 }
