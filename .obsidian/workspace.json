@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding Valthera/Stories, Lore & Campaigns/The Hearth of Elandor/The Hearth of Elandor; Logbook.md",
+                "file": "Worldbuilding Valthera/History/The Natural History of Valthera.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Hearth of Elandor; Logbook"
+              "title": "The Natural History of Valthera"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1065.7000732421875
+    "width": 200
   },
   "right": {
     "id": "1fc61ec7bfb4a646",
@@ -216,6 +216,14 @@
   },
   "active": "5c9b104815f0cb17",
   "lastOpenFiles": [
+    "Other Objects/The Primordial Kiln-1791225602388.webp",
+    "Other Objects",
+    "Worldbuilding Valthera/Technology & Objects/Objects/The Primordial Kiln.md",
+    "Worldbuilding Valthera/Places & Nations/Cities and Towns/Aerendyl.md",
+    "Worldbuilding Valthera/Places & Nations/Cities and Towns/Zuwayrat.md",
+    "Worldbuilding Valthera/Places & Nations/States and Civilisations/Zarrabath.md",
+    "Dungeons and Dragons 5e Homebrew Rules/Additional Fighting Styles.md",
+    "Worldbuilding Valthera/Stories, Lore & Campaigns/The Hearth of Elandor/The Hearth of Elandor; Logbook.md",
     "Dungeons and Dragons 5e Homebrew Rules/Fir Traits and Character Rules.md",
     "Worldbuilding Valthera/Religion, Myth & Magic/Planes/The origin.md",
     "Worldbuilding Valthera/People & Society/Cultures/Religion in Berreon.md",
@@ -235,13 +243,6 @@
     "Worldbuilding Valthera/People & Society/Peoples/People of Osteria.md",
     "Worldbuilding Valthera/People & Society/Peoples/People of Olsten.md",
     "Worldbuilding Valthera/People & Society/Peoples/People of Nasgalrion.md",
-    "Worldbuilding Valthera/People & Society/Peoples/People of Kandel.md",
-    "Worldbuilding Valthera/People & Society/Peoples/People of Holgen.md",
-    "Worldbuilding Valthera/People & Society/Peoples/People of Grevice.md",
-    "Worldbuilding Valthera/People & Society/Peoples/People of Glammen.md",
-    "Worldbuilding Valthera/People & Society/Peoples/People of Evander.md",
-    "Worldbuilding Valthera/People & Society/Peoples/People of Dorvund.md",
-    "Worldbuilding Valthera/People & Society/Peoples/People of Cambria.md",
     "Dungeons and Dragons 5e Homebrew Rules/Races and Subraces",
     "Dungeons and Dragons 5e Homebrew Rules/Monster statblocks",
     "Worldbuilding Valthera/Religion, Myth & Magic/Gods",
@@ -251,7 +252,6 @@
     "Maps/Worldmap.webp",
     "Worldbuilding Valthera/Religion, Myth & Magic/Planes",
     "Worldbuilding Valthera/Religion, Myth & Magic/Magic/Spells",
-    "Worldbuilding Valthera/Religion, Myth & Magic/Magic",
-    "Worldbuilding Valthera/People & Society/Guilds"
+    "Worldbuilding Valthera/Religion, Myth & Magic/Magic"
   ]
 }
